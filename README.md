@@ -1,0 +1,9 @@
+# Nutrition-links
+1) https://de.wikipedia.org/wiki/Ketose_(Stoffwechsel)
+2) https://youtu.be/xjEFo3a1AnI?si=Cz8xmdg80xg32lzI
+3) https://epilepsysociety.org.uk/about-epilepsy/treatment/ketogenic-diet
+4) https://www.healthline.com/health/type-2-diabetes-ketogenic-diet
+5) https://en.wikipedia.org/wiki/Mitophagy
+6) https://en.wikipedia.org/wiki/Mitochondrial_biogenesis#:~:text=Mitochondrial%20biogenesis%20is%20the%20process,greater%20glucose%20uptake%20by%20muscles.
+7) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5605817/
+8) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4981740/
